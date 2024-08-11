@@ -1,6 +1,6 @@
 # reverse shell with python
-python reverse shell //                                                     
-  1-requirements : python3 // 
+##python reverse shell //                                                     
+  //1-requirements : python3 // 
                                                                                      
   2-if you want to work you have to change host ip address in both files and set it as your server ip address //                                     
                                                                                                                                       
