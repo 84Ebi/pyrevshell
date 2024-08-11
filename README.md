@@ -12,18 +12,18 @@
                                                                                                                                       
 ### 3-usage:
   
-  1-**clone from github:**
+  1. **clone from github:**
           ```bash
           git clone https://github.com/84Ebi/python-reverse-shell.git
           ```
 
-  2-**server listener setup:**
+  2. **server listener setup:**
           
           ```bash
           python server.py
           ```                
           
-  3-**client setup:**
+  3. **client setup:**
 
           ```bash
           python client.py
